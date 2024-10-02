@@ -1,4 +1,4 @@
-# Multiple-Disease-Prediction-Using-Machine-Learning
+# Multiple-Disease-Prognosis-Using-Machine-Learning
 
 This repository contains the implementation of a machine learning framework for predicting the prognosis of multiple diseases, including Diabetes Mellitus, Myocardial Infarction and Parkinson's Disease. The project leverages Support Vector Machines (SVM) and Logistic Regression algorithms to ensure high accuracy and model interpretability, focusing on disease prediction using medical datasets.
 
